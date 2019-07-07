@@ -1,0 +1,13 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+}
+.snippet {
+  padding: 12px;
+  width: 100%;
+}
+
+.content {
+  padding: 12px;
+  width: 100%;
+}
